@@ -5,3 +5,5 @@ a general repo for statistical methodology that does not deserve its own section
 ### propensity_score - Python program to calculate propensity scores and then match based on score similarity.
 
 ### combine_excel_data - Python program to combine excel values in a column based on a lookup value. 
+
+### data_extractor - Python program to return characters around a keyword for data collection.
